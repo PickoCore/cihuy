@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cihuy.vercel.app/sitemap.xml
+Sitemap: https://cihuy-sigma.vercel.app/sitemap.xml
